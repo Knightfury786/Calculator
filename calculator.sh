@@ -6,7 +6,11 @@ echo "Enter first number:"
 read num1
 
 echo "Enter second number:"
+<<<<<<< HEAD
 read num2
+=======
+read num9
+>>>>>>> 7f1a931 (name edited)
 
 echo "Choose operation: +  -  *  /"
 read op
